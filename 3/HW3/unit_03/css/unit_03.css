@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+}
+
+.conteiner {
+    max-width: 1000px;
+    padding: 20px auto 20px auto;
+}
+
+h1, h2 {
+    font-size: 24px;
+    font-family: Impact bold;
+    text-align: center;
+    margin: 30px auto 30px auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-family: arial sens-serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+img {
+    max-width: 80%;
+    display: block;
+    margin: 20px auto 20px auto;
+}
+
+.image-description {
+    text-align: center;
+    padding: 20px 0 40px 0;
+}
+
+ul {
+    font-family: Arial sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-bold {
+    font-weight: bold;
+}
